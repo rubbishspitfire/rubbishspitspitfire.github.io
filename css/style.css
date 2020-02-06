@@ -188,6 +188,7 @@
   
   /* About Info */
   #about-info .info-right {
+    background: url(../images/programming-wallpaper9-700x394.jpg);
     float: right;
     background-size: cover;    
     background-repeat: no-repeat;
