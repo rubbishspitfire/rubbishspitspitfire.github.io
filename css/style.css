@@ -12,7 +12,7 @@
   }
   
   a {
-    color: blue;
+    color: teal;
     text-decoration: none;
   }
   
@@ -47,14 +47,14 @@
     display: inline-block;
     font-size: 18px;
     color: #333;
-    background: blue;
+    background: teal;
     padding: 13px 20px;
     border: none;
     cursor: pointer;
   }
   
   .btn:hover {
-    background: blue;
+    background: teal;
     color: #333;
   }
   
@@ -69,7 +69,7 @@
   }
   
   .bg-light {
-    background: blue;
+    background: teal;
     color: #333;
   }
   
@@ -121,7 +121,7 @@
   #navbar ul li a:hover, 
   #navbar ul li a.current {
     background: #444;
-    color: blue;
+    color: teal;
   }
   
   /* Showcase */
@@ -233,7 +233,7 @@
   #contact-form input:focus, 
   #contact-form textarea:focus {
     outline: none;
-    border-color: blue;
+    border-color: teal;
   }
 
  
