@@ -188,7 +188,6 @@
   
   /* About Info */
   #about-info .info-right {
-    background-image: url('../');
     float: right;
     background-size: cover;    
     background-repeat: no-repeat;
