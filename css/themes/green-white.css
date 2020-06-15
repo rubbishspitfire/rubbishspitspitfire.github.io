@@ -1,6 +1,14 @@
 /* Theme */
 
 main {
-    background-image: url(/img/background/atlanta-city.jpg);
-    
+    background: #3b8e3f;
+    color: #FAFAFA;
+}
+
+.icons-social a {
+	color: #FAFAFA;
+}
+
+.icons-social a svg path {
+	fill: #FAFAFA;
 }
